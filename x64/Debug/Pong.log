@@ -1,0 +1,62 @@
+﻿  Ball.cpp
+C:\Users\Pawel\source\Project\Pong\Pong\Ball.cpp(23,78): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Pawel\source\Project\Pong\Pong\Ball.cpp(29,88): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  Button.cpp
+  main.cpp
+  Game.cpp
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(93,155): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(93,125): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(97,155): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(97,125): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(167,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(172,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(173,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(192,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(193,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(197,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pawel\source\Project\Pong\Pong\Game.cpp(198,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+  Hud.cpp
+  Generating Code...
+  Pong.vcxproj -> C:\Users\Pawel\source\Project\Pong\x64\Debug\Pong.exe
